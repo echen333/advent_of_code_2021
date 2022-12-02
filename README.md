@@ -1,4 +1,4 @@
-# AoC Speedrun
+# AoC Speedrun (non tryharding)
 
 My legs:
 
